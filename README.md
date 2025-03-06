@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on automating all documentation tasks of Veterinarians. Check out: https://vetzi.io
+- 💻 Tech Stack: TypeScript, React, Node.js, NoSQL, PostgreSQL, AWS, GCP
+- 🛠️ Previously work experience includes: software consulting for start-ups, leading a development team
 <!--
 **PietariImmonen/pietariimmonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
